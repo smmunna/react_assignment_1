@@ -2,7 +2,7 @@ import React from "react";
 
 function Products(props) {
   const { title, price, image, description, rating } = props;
-  return <div>
+  return <div className="card-style">
       
       <img src={image} class="card-img-top" alt="..." />
       <div class="card-body">

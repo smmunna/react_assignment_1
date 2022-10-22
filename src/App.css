@@ -1,5 +1,5 @@
-*{
-  background-color: rgb(254, 254, 254);
+.App{
+  overflow-x: hidden;
 }
 .App h2{
   background-color: bisque;

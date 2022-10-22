@@ -1,11 +1,19 @@
 .card-img-top{
     height: 150px;
     width: 150px;
+    padding: 20px;
 }
 .card-body{
     padding: 12px;
+    padding: 20px;
+   
     
 }
+
+.card-style{
+    border: 2px solid red;
+}
 .col-lg-4{
+   padding: 22px;
    
 }
