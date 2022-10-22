@@ -7,9 +7,9 @@ function Products(props) {
       <img src={image} class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">{title}</h5>
-        <p className="card-text">Price: ${price}</p>
-        <p className="card-text">Rating: {rating}/5</p>
-        <p class="card-text">{description}</p>
+        <p>Price: ${price}</p>
+        <p>Rating: {rating}/5</p>
+        <h6>{description}</h6>
         <button className="btn btn-primary">Add to Card</button>
       </div>
       </div>

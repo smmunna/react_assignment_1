@@ -15,5 +15,12 @@
 }
 .col-lg-4{
    padding: 22px;
-   
+}
+.card-body p{
+    margin-top: 12px;
+    line-height: 1;
+    color: rgb(0, 95, 16);
+}
+.card-body h6{
+    line-height: 2;
 }
